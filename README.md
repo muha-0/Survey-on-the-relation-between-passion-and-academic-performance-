@@ -1,2 +1,2 @@
-Data analysis_first project
-research on the relation between passion and academic performance. 
+Data_analysis_first_project
+research_on_the_relation_between_passion_and_academic_performance. 
